@@ -1,0 +1,14 @@
+.main-page {
+  margin-top: 68.4px;
+  margin-bottom: 0cm;
+  background-image: url(../../assets/img/cover_bg_3.jpg);
+  min-height: 322px
+}
+
+.profile-thumb {
+  background: url(../../assets/img/Lawrence.jpg);
+}
+
+.img-circle {
+  border-radius: 50%;
+}

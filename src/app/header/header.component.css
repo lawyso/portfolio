@@ -1,0 +1,18 @@
+.cyan {
+  background-color: #5F9EA0;
+}
+
+.cyan-dark {
+  background-color: #008080;
+}
+
+.nav-menu-item a {
+  font-weight: bold;
+  color: whitesmoke;
+  font-size: 14px
+}
+
+.brand-text {
+  font-size: 28px;
+  color: brown
+}
